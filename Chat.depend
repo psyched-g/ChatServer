@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1759722835 source:c:\users\gauth\onedrive\documents\work\mtech\esde\chat\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<winsock2.h>
+	<windows.h>
+	<process.h>
+
+1759722844 source:c:\users\gauth\onedrive\documents\work\mtech\esde\chat\client.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<winsock2.h>
+	<windows.h>
+	<process.h>
+
+1759722835 source:c:\users\gauth\onedrive\documents\work\mtech\esde\chat\server.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<winsock2.h>
+	<windows.h>
+	<process.h>
+
