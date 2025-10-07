@@ -152,7 +152,7 @@ int main() {
         } else {
             _beginthreadex(NULL, 0, handle_client, (void*)cli, 0, NULL);
         }
-    }
+    }//server
 
     closesocket(server_sock);
     WSACleanup();
